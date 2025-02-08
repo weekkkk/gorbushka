@@ -1,0 +1,22 @@
+{
+  "sessions": [
+    {
+      "id": "448145168:448145168",
+      "data": {
+        "__scenes": {},
+        "type": 1,
+        "lastMediaGroupId": "13911900855017482",
+        "stepIndex": 1,
+        "role": "guest",
+        "step": [
+          4,
+          "forign",
+          0
+        ],
+        "messageIds": [
+          537
+        ]
+      }
+    }
+  ]
+}
